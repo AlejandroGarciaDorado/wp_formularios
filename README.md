@@ -1,5 +1,5 @@
 ﻿# Paginas de wordpress en local de elementos html formularios.
-Vamos a aprender a instalar wordpress en local paso a paso
+Vamos a aprender a crear una pagina web en local paso a paso
 
 
 ## Comenzando 🚀
