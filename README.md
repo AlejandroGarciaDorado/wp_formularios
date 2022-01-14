@@ -1,4 +1,4 @@
-﻿# Como instalar wordpress en local
+﻿# Paginas de wordpress en local de elementos html formularios.
 Vamos a aprender a instalar wordpress en local paso a paso
 
 
